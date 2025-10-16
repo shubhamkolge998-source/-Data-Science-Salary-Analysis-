@@ -95,5 +95,5 @@ Using **Advanced Excel techniques**, the dataset was cleaned, transformed, and v
 
 ## ✨ Credits
 - **Data Source:** [Kaggle - Data Science Salaries Dataset](https://www.kaggle.com)  
-- **Author:** *Your Name*  
+- **Author:** *Shubham Kolge*  https://www.linkedin.com/in/shubham-kolge-67a332211
 - **Tools:** Microsoft Excel (Power Query, VLOOKUP, Pivot Table & Charts)
